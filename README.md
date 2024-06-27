@@ -1,6 +1,6 @@
 ###
 
-👋 Hi, nice to meet you! I'm a student at UC Berkeley studying Computer Science and Geography. I have work and internship experience in software engineering, and data research, and computational journalism.
+👋 Hi, nice to meet you! I'm a student at UC Berkeley studying Computer Science and Geography. I have work and internship experience in software engineering, data research, and computational journalism.
 
 If you'd like to ask any questions or would like to collaborate on a project, feel free to reach out via Twitter, or email arfamomin@berkeley.edu.
 <!--
